@@ -4,6 +4,8 @@
 	<img src="https://i.postimg.cc/2jw93fcB/4.png" />
 </p>
 
+<a href="https://youtu.be/kiMlI7bfttw"> how to assemble Cryptor </a>
+
 -------
 
 ### Support
